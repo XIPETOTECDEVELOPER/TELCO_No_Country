@@ -1,0 +1,11 @@
+Flujo
+
+Datos del cliente (JSON)
+        ↓
+Modelo de Machine Learning
+        ↓
+Probabilidad de churn
+        ↓
+API REST (Java)
+        ↓
+Respuesta para el negocio
